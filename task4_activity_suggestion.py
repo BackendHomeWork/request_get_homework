@@ -1,10 +1,9 @@
 """
-Task 4: Get an Activity Suggestion
+Task 4: Get a Random Quote
 
-API: https://www.boredapi.com/api/activity
+API: https://api.quotable.io/random
 - Make a GET request to the API.
-- Print the activity suggestion from the response.
+- Print the quote and the author.
 """
 
 import requests
-

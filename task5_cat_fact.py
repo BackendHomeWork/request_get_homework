@@ -1,10 +1,9 @@
 """
-Task 5: Get a Random Cat Fact
+Task 5: Get a Random Advice
 
-API: https://catfact.ninja/fact
+API: https://api.adviceslip.com/advice
 - Make a GET request to the API.
-- Print the random cat fact.
+- Print the advice from the response.
 """
 
 import requests
-
